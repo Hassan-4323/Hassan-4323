@@ -1,9 +1,7 @@
 # Hi, I'm Hassan Jan 👋
 
 ## About Me
-I am a BSCS student with an interest in web development, design, and building practical digital solutions.  
-I enjoy creating responsive websites, improving user interfaces, and working on projects that solve real-world problems.  
-Currently, I am focusing on MERN stack development and continuously improving my skills in frontend and backend technologies.
+I am a BSCS student passionate about web development, responsive design, and building practical digital solutions. I enjoy creating user-friendly interfaces and improving my skills in both frontend and backend development.
 
 ## Skills
 - HTML
@@ -22,6 +20,7 @@ Currently, I am focusing on MERN stack development and continuously improving my
 - MongoDB Atlas
 - Figma
 - Canva
+- Postman / Thunder Client
 
 ## Currently Learning
 - Advanced React.js
@@ -29,21 +28,20 @@ Currently, I am focusing on MERN stack development and continuously improving my
 - Database Design
 - Full Stack Project Development
 
-## Projects
-Here are some areas I have worked on:
-- MERN Stack Tourism Project
-- Responsive Web Interfaces
-- Academic and Practice-Based Development Projects
-- UI-focused Frontend Designs
+## Featured Work
+- JavaScript practice and problem-solving exercises
+- MERN stack academic and practical projects
+- Responsive frontend interfaces
+- UI-focused web development work
 
 ## Goals
 - Build professional full stack web applications
 - Strengthen problem-solving and development skills
-- Contribute to meaningful software projects
+- Create impactful real-world projects
 - Grow as a MERN stack developer
 
-## Contact Me
-- Email: hassanzahir2004@gmail.com / andaztrade2004@gmail.com
+## Contact
+- Email: hassanzahir2004@gmail.com
 - LinkedIn: [Hassan Jan](https://www.linkedin.com/in/hassan-jan-44746b395?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
