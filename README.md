@@ -1,7 +1,7 @@
 # Hi, I'm Hassan Jan 👋
 
 ## About Me
-I am a BSCS student passionate about web development, responsive design, and building practical digital solutions. I enjoy creating user-friendly interfaces and improving my skills in both frontend and backend development.
+Computer Science graduate passionate about web development, responsive design, and building practical digital solutions. I enjoy creating user-friendly interfaces and working across frontend and backend technologies while continuously learning and building real-world projects.
 
 ## Skills
 - HTML
